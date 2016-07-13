@@ -1,14 +1,15 @@
 {
   "author": "wondible",
-  "build": "89755",
-  "category": ["galactic-war", "titans"],
+  "build": "94684",
+  "category": ["gw", "titans"],
   "context": "client",
-  "date": "2016/02/27",
+  "date": "2016/07/12",
   "description": "More multi-planet, multi-spawn systems from earlier versions of Galactic War.",
-  "display_name": "GW Classic Systems",
+  "display_name": "Classic Systems for galactic war",
   "forum": "https://forums.uberent.com/threads/rel-gw-classic-systems.71448/",
+  "icon": "http://wondible.com/pa/icons/gw_classic_systems.png",
   "identifier": "com.wondible.pa.gw_classic_systems",
   "priority": 100,
   "signature": "not yet implemented",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
